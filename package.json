@@ -1,0 +1,19 @@
+{
+  "name": "@BruceYe2020/publishgithubpackagetest",
+  "version": "1.0.0",
+  "description": "\"# PublishPackageTest\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruceYe2020/PublishPackageTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruceYe2020/PublishPackageTest/issues"
+  },
+  "homepage": "https://github.com/BruceYe2020/PublishPackageTest#readme"
+}
